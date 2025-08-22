@@ -70,9 +70,8 @@ python main.py
 ---
 
 ## 📸 Demonstração
-```markdown
+
 ![Demo](./demo.png)
-```
 
 ---
 
